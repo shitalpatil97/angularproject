@@ -1,0 +1,14 @@
+label{
+    color :black;
+    
+    
+}
+input{
+    margin-left: 25px;
+}
+span{
+    color: purple;
+}
+.form-group{
+    text-align: center;
+}
